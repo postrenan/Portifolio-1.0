@@ -10,3 +10,9 @@ h1, p, h2, h3 {
 btn{
   background-color: blueviolet !important;
 }
+
+
+*{
+  margin: 0;
+  padding: 0;
+}
